@@ -1,3 +1,5 @@
+# Here is a new update by GGSVic
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
